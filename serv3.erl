@@ -1,3 +1,6 @@
+%Team Members:
+% - [Cora Rogers, Dylan Nicks, William Wang]
+
 -module(serv3).
 -export([start/0, loop/1]).
 
