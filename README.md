@@ -1,1 +1,2 @@
-# 590-Assignment-4
+Team Members:
+- [Cora Rogers, Dylan Nicks, William Wang]
